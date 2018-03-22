@@ -4,3 +4,6 @@
 
 ## Technology
 
+  Plain HTML
+  No Javascript
+  No Nodejs
